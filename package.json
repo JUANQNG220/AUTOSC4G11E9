@@ -1,0 +1,19 @@
+{
+  "name": "autosc4g11e9",
+  "version": "1.0.0",
+  "description": "Proyecto Equipo 9 Grupo 11 Ciclo 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JUANQNG220/AUTOSC4G11E9.git"
+  },
+  "author": "Juan Guillermo Quintero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JUANQNG220/AUTOSC4G11E9/issues"
+  },
+  "homepage": "https://github.com/JUANQNG220/AUTOSC4G11E9#readme"
+}
